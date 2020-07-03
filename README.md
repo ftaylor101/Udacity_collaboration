@@ -26,6 +26,16 @@ provided by [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents/bl
 However it is not the same and for this project the modified version 
 provided by Udacity has been used for training.
 
+The Udacity Tennis environment is available here for the following operating systems 
+(Note this solution used Windows 64-bit):
+- Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
+- Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
+- Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
+- Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
+
+Unzip the folder and place the resulting folder at the same level as this README so that the Tennis.exe is one level 
+down from here.
+
 __Ensure__ the location of the Udacity modified Tennis 
 environment folder is in the same folder as the tennis_colaboration.py 
 file. This will make sure the code finds the environment.
